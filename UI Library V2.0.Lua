@@ -6,7 +6,6 @@ local RenderStepped = game:GetService('RunService').RenderStepped;
 local LocalPlayer = game:GetService('Players').LocalPlayer;
 local Mouse = LocalPlayer:GetMouse();
 
-
 local ScreenGui = Instance.new('ScreenGui');
 
 
